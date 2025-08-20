@@ -23,8 +23,6 @@ Completed as part of the Prodigy InfoTech Data Science Internship.
 2. Install dependencies:
     ```
     pip install pandas numpy matplotlib
-
-
 3. Open and run the Jupyter Notebook:
     ```
     jupyter notebook
